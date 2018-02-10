@@ -1,0 +1,6 @@
+﻿  Entry.cpp
+c:\users\паша\desktop\проекты c++\virtualfunc\virtualfunc\entry.cpp(44): warning C4477: "printf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+c:\users\паша\desktop\проекты c++\virtualfunc\virtualfunc\entry.cpp(44): warning C4477: "printf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "HANDLE"
+c:\users\паша\desktop\проекты c++\virtualfunc\virtualfunc\entry.cpp(49): warning C4477: "printf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+c:\users\паша\desktop\проекты c++\virtualfunc\virtualfunc\entry.cpp(49): warning C4477: "printf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "HANDLE"
+  virtualFunc.vcxproj -> C:\Users\Паша\Desktop\Проекты C++\virtualFunc\Debug\virtualFunc.exe
